@@ -13,7 +13,7 @@ step1_adjusting_posture.m
 
 step2_1_slip_detection.m
 
-step2_2_deforamtion_prediction.m
+step2_2_deformation_prediction.m
 
 **Arduino**
 
@@ -21,7 +21,7 @@ step1_motors_operate_and_stop_if_signal.ino
 
 step2_1_motors_stop_and_operate_if_signal.ino
 
-step2_2_motors_operate_and_stop_if_singal.ino
+step2_2_motors_operate_and_stop_if_signal.ino
 
 **Usage**
 
